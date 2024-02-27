@@ -1,5 +1,4 @@
 p {
-  color: red; }
-
-a {
-  list-style: none; }
+  color: #000;
+  display: block;
+  text-transform: lowercase; }
