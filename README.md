@@ -32,4 +32,13 @@
 
 ## 파비콘 사이트
 
--https://realfavicongenerator.net/
+- https://realfavicongenerator.net/
+
+## Reset.css // Normalize.css
+
+- https://meyerweb.com/eric/tools/css/reset/
+- https://necolas.github.io/normalize.css/
+
+## reset 픽
+
+- https://gist.github.com/rohjs/eb269108fefc8e648181c09e3dc662d0
