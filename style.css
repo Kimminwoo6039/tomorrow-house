@@ -65,9 +65,3 @@ i {
 
 .ic-Store:before {
   content: '\e90f'; }
-
-p {
-  color: #000; }
-
-* {
-  font-family: 'Noto Sans KR', sans-serif; }
